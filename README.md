@@ -6,4 +6,4 @@
 
 ### About the files:
 - 1. xxx_project is the jupyter notebook file of 2 projects.
-  2. **Time_Series_Analysis_with_figs** is the essay-like analysis, including the concepts part.
+- 2. **Time_Series_Analysis_with_figs** is the essay-like analysis, including the concepts part.
